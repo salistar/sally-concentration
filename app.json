@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Memory",
+    "slug": "memory",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": { "image": "./assets/splash.png", "resizeMode": "contain", "backgroundColor": "#DB2777" },
+    "scheme": "sallycards",
+    "ios": { "bundleIdentifier": "com.sallycards.concentration", "supportsTablet": true },
+    "android": { "package": "com.sallycards.concentration", "adaptiveIcon": { "foregroundImage": "./assets/adaptive-icon.png", "backgroundColor": "#DB2777" }, "usesCleartextTraffic": true },
+    "plugins": ["expo-router", "expo-localization", "expo-font"],
+    "newArchEnabled": true, "extra": { "eas": { "projectId": "sallycards-concentration" }, "usesCleartextTraffic": true }
+  }
+}
