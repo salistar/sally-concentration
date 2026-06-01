@@ -105,7 +105,7 @@
   "createSub": "2 to 10 players",
   "join": "Join",
   "joinSub": "By code or list",
-  "vsGemini": "vs Bot",
+  "vsGemini": "vs Gemini",
   "vsGeminiSub": "Expert AI",
   "dailyChallengeReward": "+{{coins}} coins",
   "simulation": "Simulation",
@@ -174,7 +174,7 @@
     "playCtaSub": "13 variants — solo, coop, competitive",
     "soloBadge": "MEMORY",
     "shortClassic": "Classic",
-    "shortClassicSub": "4×4 / 4×6 / 6×6",
+    "shortClassicSub": "4x4 / 4x6 / 6x6",
     "shortTriplets": "Triplets",
     "shortTripletsSub": "3-card match",
     "shortDaily": "Daily Challenge",
@@ -214,7 +214,8 @@
     "winTitle": "Well done — you won!",
     "winStats": "{{moves}} moves · {{time}}s · Score {{score}}",
     "playAgain": "Play again",
-    "quit": "Quit"
+    "quit": "Quit",
+    "scoreLabel": "SCORE"
   },
   "stuck": {
     "title": "⏱️ Time's up",
@@ -227,5 +228,8 @@
   "diffHard": "Hard",
   "drawsShort": "D",
   "yourMove": "Your move",
-  "wallet": "Wallet"
+  "wallet": "Wallet",
+  "slide3": {
+    "title": "AI Bots"
+  }
 }

@@ -105,7 +105,7 @@
   "createSub": "2 a 10 jugadores",
   "join": "Unirse",
   "joinSub": "Por código o lista",
-  "vsGemini": "vs Bot",
+  "vsGemini": "vs Gemini",
   "vsGeminiSub": "IA experta",
   "dailyChallengeReward": "+{{coins}} monedas",
   "simulation": "Simulación",
@@ -172,7 +172,7 @@
   "home": {
     "playCta": "Jugar una partida",
     "playCtaSub": "13 variantes — solo, coop, competitivo",
-    "soloBadge": "MEMORY",
+    "soloBadge": "MEMORIA",
     "shortClassic": "Clásico",
     "shortClassicSub": "4×4 / 4×6 / 6×6",
     "shortTriplets": "Tríos",
@@ -214,7 +214,8 @@
     "winTitle": "¡Bien hecho — has ganado!",
     "winStats": "{{moves}} movs · {{time}}s · Puntuación {{score}}",
     "playAgain": "Jugar de nuevo",
-    "quit": "Salir"
+    "quit": "Salir",
+    "scoreLabel": "PUNTOS"
   },
   "stuck": {
     "title": "⏱️ Tiempo agotado",
@@ -227,5 +228,8 @@
   "diffHard": "Difícil",
   "drawsShort": "E",
   "yourMove": "Tu turno",
-  "wallet": "Cartera"
+  "wallet": "Cartera",
+  "slide3": {
+    "title": "Bots IA"
+  }
 }

@@ -214,7 +214,8 @@
     "winTitle": "مبروك — ربحتي!",
     "winStats": "{{moves}} حركة · {{time}} ثانية · النقط {{score}}",
     "playAgain": "عاود اللعب",
-    "quit": "خرج"
+    "quit": "خرج",
+    "scoreLabel": "النقط"
   },
   "stuck": {
     "title": "⏱️ سال الوقت",
@@ -227,5 +228,8 @@
   "diffHard": "صعيب",
   "drawsShort": "ت",
   "yourMove": "دورك",
-  "wallet": "البورس"
+  "wallet": "البورس",
+  "slide3": {
+    "title": "روبوهات ذكية"
+  }
 }

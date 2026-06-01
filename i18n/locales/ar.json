@@ -214,7 +214,8 @@
     "winTitle": "أحسنت — لقد فزت!",
     "winStats": "{{moves}} حركة · {{time}} ثانية · النقاط {{score}}",
     "playAgain": "العب مجدداً",
-    "quit": "خروج"
+    "quit": "خروج",
+    "scoreLabel": "النتيجة"
   },
   "stuck": {
     "title": "⏱️ انتهى الوقت",
@@ -227,5 +228,8 @@
   "diffHard": "صعب",
   "drawsShort": "ت",
   "yourMove": "دورك",
-  "wallet": "المحفظة"
+  "wallet": "المحفظة",
+  "slide3": {
+    "title": "ذكاء صناعي"
+  }
 }

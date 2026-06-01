@@ -214,12 +214,22 @@
     "winTitle": "Bravo, partie gagnée !",
     "winStats": "{{moves}} coups · {{time}}s · Score {{score}}",
     "playAgain": "Rejouer",
-    "quit": "Quitter"
+    "quit": "Quitter",
+    "scoreLabel": "SCORE"
   },
   "stuck": {
     "title": "⏱️ Temps écoulé",
     "body": "Le temps imparti est dépassé. Tu peux recommencer ou voir ton score final.",
     "again": "Recommencer",
     "continue": "Voir le score"
-  }
+  },
+  "diffEasy": "Facile",
+  "diffMedium": "Moyen",
+  "diffHard": "Difficile",
+  "drawsShort": "N",
+  "slide3": {
+    "title": "Bots IA"
+  },
+  "wallet": "Portefeuille",
+  "yourMove": "À ton tour"
 }
