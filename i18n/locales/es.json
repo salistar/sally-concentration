@@ -81,7 +81,7 @@
   "challengeDesc": "Encuentra todos los pares en menos de 30 movimientos. ¡50 monedas extra!",
   "startChallenge": "Empezar el reto",
   "vsBot": "vs Bot",
-  "localPlay": "Local",
+  "localPlay": "Juego local",
   "light": "Claro",
   "dark": "Oscuro",
   "system": "Sistema",
@@ -126,8 +126,8 @@
   "statBest": "Mejor",
   "statStreak": "Racha",
   "topPlayers": "Top jugadores",
-  "winsShort": "V",
-  "lossesShort": "D",
+  "winsShort": "G",
+  "lossesShort": "P",
   "walletCoins": "Sally Coins",
   "walletDiamonds": "Diamantes",
   "recentGames": "Partidas recientes",
@@ -221,5 +221,11 @@
     "body": "Se acabó el tiempo. Puedes reiniciar o ver tu puntuación final.",
     "again": "Reiniciar",
     "continue": "Ver puntuación"
-  }
+  },
+  "diffEasy": "Fácil",
+  "diffMedium": "Medio",
+  "diffHard": "Difícil",
+  "drawsShort": "E",
+  "yourMove": "Tu turno",
+  "wallet": "Cartera"
 }

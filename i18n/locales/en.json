@@ -81,7 +81,7 @@
   "challengeDesc": "Find all pairs in under 30 moves. 50 bonus coins!",
   "startChallenge": "Start Challenge",
   "vsBot": "vs Bot",
-  "localPlay": "Local",
+  "localPlay": "Local play",
   "light": "Light",
   "dark": "Dark",
   "system": "System",
@@ -221,5 +221,11 @@
     "body": "You ran out of time. You can restart or see your final score.",
     "again": "Restart",
     "continue": "See score"
-  }
+  },
+  "diffEasy": "Easy",
+  "diffMedium": "Medium",
+  "diffHard": "Hard",
+  "drawsShort": "D",
+  "yourMove": "Your move",
+  "wallet": "Wallet"
 }
